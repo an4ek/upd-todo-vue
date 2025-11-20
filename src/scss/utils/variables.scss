@@ -1,0 +1,48 @@
+$primary-color: rgba(21, 64, 243, 0.75);
+$secondary-color: #ffffff;
+$accent-color: rgba(44, 79, 229, 0.75);
+$accent-hover: rgba(21, 64, 243, 0.75);
+$success-color: rgba(44, 79, 229, 0.75);
+$background-light: rgba(231, 236, 255, 0.75);
+
+$shadow-color: rgba(0, 0, 0, 0.1);
+$modal-overlay: rgba(0, 0, 0, 0.5);
+$text-muted: #999;
+
+$font-primary: 'Inter', sans-serif;
+$font-weight-normal: 400;
+
+$font-size-base: 1rem;
+$font-size-xs: 0.8rem;
+$font-size-sm: 0.9rem;
+$font-size-lg: 1.1rem;
+$font-size-xl: 1.05rem;
+$font-size-xxl: 0.95rem;
+
+$spacing-xs: 0.5rem;
+$spacing-sm: 0.8rem;
+$spacing-md: 1rem;
+$spacing-lg: 1.5rem;
+$spacing-xl: 2rem;
+$spacing-4xl: 4rem;
+
+$border-radius: 10px;
+
+$shadow-light: 0 1px 3px $shadow-color;
+$shadow-medium: 0 2px 5px $shadow-color;
+$shadow-heavy: 0 5px 15px $shadow-color;
+
+$transition-fast: 0.3s ease;
+$transition-medium: 0.4s ease;
+$transition-slow: 0.8s ease;
+$transition-slower: 1s ease-in-out;
+
+$breakpoint-mobile: 767px;
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;
+
+$dark-primary-color: #0D0714;
+$dark-secondary-color: #ffffff;
+$dark-accent-color: rgba(44, 79, 229, 0.75);
+$dark-background: #15101C;
+
